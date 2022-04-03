@@ -177,7 +177,7 @@ int MENU(void)
     printf("EX3  = [3] \n");
     printf("EX4  = [4] \n");
     printf("EX5  = [5] \n");
-    printf("EX4  = [6] \n");
+    printf("EX6  = [6] \n");
     printf("\n");
     printf("Digite o numero: ");
     scanf("%i", &op);
