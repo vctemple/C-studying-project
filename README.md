@@ -6,3 +6,4 @@
  - 4: arrays and matrix;
  - 5: functions and pointers;
  - 6: simple CRUD for a school system;
+ - 7: dynamic location exemples for funcition;
