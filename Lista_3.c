@@ -1,5 +1,5 @@
-// LISTA3 - ESTRUTURAS DE DADOS [EDDA3]
-// VICTOR TEMPLE - CJ3011771
+// LISTA3 - Subrotinas integradas
+// VICTOR TEMPLE
 
 #include <stdio.h>
 #include <math.h>

@@ -1,5 +1,5 @@
-// LISTA2 - ESTRUTURAS DE DADOS [EDDA3]
-// VICTOR TEMPLE - CJ3011771
+// LISTA2 - Calculos usando laços
+// VICTOR TEMPLE
 
 #include<stdio.h>
 #include<math.h>

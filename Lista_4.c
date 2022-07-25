@@ -1,5 +1,5 @@
-// LISTA4 - ESTRUTURAS DE DADOS [EDDA3]
-// VICTOR TEMPLE - CJ3011771
+// LISTA4 - Vetores e matrizes
+// VICTOR TEMPLE
 
 #include <stdio.h>
 #include <stdlib.h>
